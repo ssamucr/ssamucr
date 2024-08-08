@@ -48,4 +48,5 @@ Me encuentro abierto a pasantías y oportunidades de trabajo, mi [hoja de vida](
 
 ## Contacto
 Email: ssamucr@gmail.com
-LinkedIn: [ssamucr]([https://read.cv/ssamucr](https://www.linkedin.com/in/samuel-castro-737243230/))
+<br>
+LinkedIn: [Samuel Castro](https://www.linkedin.com/in/samuel-castro-737243230/)
