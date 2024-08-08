@@ -1,6 +1,8 @@
 # Hola, mi nombre es Samuel Castro 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=500&size=26&duration=4000&pause=500&color=F7D92A&center=true&vCenter=true&width=435&lines=Mi+nombre+es+Samuel+Castro;Soy+estudiante+de+Ingenier%C3%ADa+de+Software;Me+gusta+el+desarrollo+web;Aprendizaje+constante)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=500&size=26&duration=4000&pause=500&color=F7D92A&center=true&vCenter=true&width=435&lines=Mi+nombre+es+Samuel+Castro;Soy+estudiante+de+Ingenier%C3%ADa+de+Software;Me+gusta+el+desarrollo+web;Aprendizaje+constante" alt="Typing SVG" /></a>
+</div>
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> Sobre mí
 
@@ -43,3 +45,7 @@ Me encuentro abierto a pasantías y oportunidades de trabajo, mi [hoja de vida](
   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+## Contacto
+Email: ssamucr@gmail.com
+LinkedIn: [ssamucr]([https://read.cv/ssamucr](https://www.linkedin.com/in/samuel-castro-737243230/))
