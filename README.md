@@ -12,7 +12,7 @@ Me mantengo en constante aprendizaje por mi cuenta y me gusta mantenerme actuali
 
 Disfruto participar de retos de programación que desafíen mis conocimientos llevandome siempre a un nuevo nivel.
 
-Me encuentro abierto a pasantías y oportunidades de trabajo, mi [hoja de vida](https://read.cv/ssamucr)
+Me encuentro abierto a pasantías y oportunidades de trabajo, mi [hoja de vida](https://utpac-my.sharepoint.com/:b:/g/personal/samuel_castro1_utp_ac_pa/ESxHarFkrutKgjxTZdHqRqsBtn9eTPdXFWUUR-MCaOQp5g?e=wSsioy)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
 - **Lenguajes y frameworks**:
