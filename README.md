@@ -46,6 +46,11 @@ Me encuentro abierto a pasantías y oportunidades de trabajo, mi [hoja de vida](
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+## Algunos proyectos que he realizado
+
+<a href="http://rantanfood.free.nf/" target="_blank"><img src="https://raw.githubusercontent.com/ssamucr/rantanfood/main/rantan.png" style="height: 60%; width:60%;"/></a>
+### Sitio web para buscar y reservar restaurantes. Desarrollado en PHP como proyecto final de Ingeniería Web
+
 ## Contacto
 Email: ssamucr@gmail.com
 <br>
