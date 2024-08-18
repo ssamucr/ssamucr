@@ -47,11 +47,16 @@ Me encuentro abierto a pasantías y oportunidades de trabajo, mi [hoja de vida](
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ## Algunos proyectos que he realizado
-
-<a href="http://rantanfood.free.nf/" target="_blank"><img src="https://raw.githubusercontent.com/ssamucr/rantanfood/main/rantan.png" style="height: 60%; width:60%;"/></a>
 ### Sitio web para buscar y reservar restaurantes. Desarrollado en PHP como proyecto final de Ingeniería Web
+
+<a href="http://rantanfood.free.nf/" target="_blank">
+  <img src="https://raw.githubusercontent.com/ssamucr/rantanfood/main/rantan.png" 
+       style="height: 60%; width: 60%;">
+</a>
+
+<a href="https://github.com/ssamucr/rantanfood" target="_blank"><img alt="Static Badge" style="width:15%;" src="https://img.shields.io/badge/build-code-brightgreen?style=plastic&label=Rantanfood&labelColor=%23FFE47A&color=%23283048&link=https%3A%2F%2Fgithub.com%2Fssamucr%2Frantanfood"></a>
 
 ## Contacto
 Email: ssamucr@gmail.com
-<br>
+
 LinkedIn: [Samuel Castro](https://www.linkedin.com/in/samuel-castro-737243230/)
