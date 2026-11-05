@@ -1,62 +1,118 @@
-# Hola, mi nombre es Samuel Castro 👋
-
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=500&size=26&duration=4000&pause=500&color=F7D92A&center=true&vCenter=true&width=435&lines=Mi+nombre+es+Samuel+Castro;Soy+estudiante+de+Ingenier%C3%ADa+de+Software;Me+gusta+el+desarrollo+web;Aprendizaje+constante" alt="Typing SVG" /></a>
-</div>
 
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> Sobre mí
+<img src="assets/banner.svg" alt="Samuel Castro — Ingeniero de datos, ML e IA" width="100%">
 
-Estoy en el último año de la carrera de ingeniería de software.
-
-Me mantengo en constante aprendizaje por mi cuenta y me gusta mantenerme actualizado en las novedades sobre tecnologías, lenguajes de programación y frameworks, centrandome principalmente en la ingeniería de software y el desarrollo web.
-
-Disfruto participar de retos de programación que desafíen mis conocimientos llevandome siempre a un nuevo nivel.
-
-Me encuentro abierto a pasantías y oportunidades de trabajo, mi [hoja de vida](https://utpac-my.sharepoint.com/:b:/g/personal/samuel_castro1_utp_ac_pa/ESxHarFkrutKgjxTZdHqRqsBtn9eTPdXFWUUR-MCaOQp5g?e=wSsioy)
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
-- **Lenguajes y frameworks**:
-
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-    
-- **Base de datos**:
-
-  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  
-- **Herramientas**:
-
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-
-- **Extras**:
-
-  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-## Algunos proyectos que he realizado
-### Sitio web para buscar y reservar restaurantes. Desarrollado en PHP como proyecto final de Ingeniería Web
-
-<a href="http://rantanfood.free.nf/" target="_blank">
-  <img src="https://raw.githubusercontent.com/ssamucr/rantanfood/main/rantan.png" 
-       style="height: 60%; width: 60%;">
+<a href="https://github.com/ssamucr">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=640&height=40&lines=Hola%2C+soy+Samuel;Convierto+datos+en+decisiones;Construyo+lakehouses+en+Microsoft+Fabric;Entreno+modelos+que+predicen+riesgo;Ense%C3%B1o+SQL+a+quien+quiera+aprender;Hablo+con+Claude+todo+el+d%C3%ADa" alt="Hola, soy Samuel. Convierto datos en decisiones." />
 </a>
 
-<a href="https://github.com/ssamucr/rantanfood" target="_blank"><img alt="Static Badge" style="width:15%;" src="https://img.shields.io/badge/build-code-brightgreen?style=plastic&label=Rantanfood&labelColor=%23FFE47A&color=%23283048&link=https%3A%2F%2Fgithub.com%2Fssamucr%2Frantanfood"></a>
+<br>
 
-## Contacto
-Email: ssamucr@gmail.com
+[![Portafolio](https://img.shields.io/badge/samu0x.dev-0F172A?style=for-the-badge&logo=astro&logoColor=white)](https://samu0x.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ssamucr/)
+[![Correo](https://img.shields.io/badge/ssamucr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssamucr@gmail.com)
 
-LinkedIn: [Samuel Castro](https://www.linkedin.com/in/samuel-castro-737243230/)
+</div>
+
+<br>
+
+## 👋 Hola
+
+Soy ingeniero de datos en Panamá 🇵🇦. Trabajo en banca, construyendo la plataforma de datos sobre Microsoft Fabric, desde el
+lakehouse y los pipelines hasta los modelos de riesgo. Fuera de ahí me engancho con machine learning, agentes y MCP, estudio una
+maestría en IA y doy clases de SQL.
+
+Lo que más disfruto es meterme de lleno en un problema real, entenderlo bien y verlo funcionando, ya sea diseñando la
+arquitectura, entrenando un modelo o armando la integración que conecta todo.
+
+```python
+samuel = {
+    "rol":         "Ingeniero de Datos  →  camino a ML Engineer",
+    "base":        "Ciudad de Panamá 🇵🇦",
+    "trabajo":     "banca: lakehouse, pipelines y modelos de riesgo",
+    "estudiando":  "Máster en IA (UNIR), hasta mediados de 2027",
+    "enseño":      "SQL para gente que no viene de tecnología",
+    "combustible": ["café ☕", "Claude 🤖", "running 🏃"],
+    "abierto_a":   "ML e IA, proyectos grandes, remoto internacional",
+}
+```
+
+<br>
+
+## 🔭 En lo que ando ahora
+
+- 🏦 **Fabric a fondo:** construyendo un lakehouse con modelo estrella y arquitectura medallion que centraliza los datos del banco.
+- 🧪 **Modelo de incumplimiento:** comparando regresión logística y árboles (AUC y KS) para predecir mora en préstamos.
+- 🤖 **Agentes y MCP:** ya le conecté Claude a Fabric, a Power BI y a mi propia app para hablar con los datos en lenguaje natural.
+- 🎓 **Máster en IA:** aprendizaje automático, redes neuronales, NLP, visión artificial e IA generativa.
+- 🧑‍🏫 **Clases de SQL:** grupos pequeños y sin tecnicismos.
+- 💸 **Eco:** mi app de finanzas personales, que quiero abrir a más gente.
+
+<br>
+
+## 🧰 Con qué trabajo
+
+**Datos y BI**
+
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-117865?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+**IA y ML**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Desarrollo y nube**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<br>
+
+## 🚀 Algunas cosas que he hecho
+
+| | Proyecto | De qué va |
+| :-: | --- | --- |
+| 💸 | **Eco** · [backend](https://github.com/ssamucr/eco-app-backend) · [frontend](https://github.com/ssamucr/eco-app-frontend) | Finanzas personales sencillas, con login, API en Python y base en Postgres. Incluye un **MCP remoto** para consultarla y registrar movimientos desde Claude. |
+| 🌋 | [**sismos-panama**](https://github.com/ssamucr/sismos-panama) | Resumen analítico de los sismos en Panamá, a raíz del temblor del 9 de octubre. |
+| 🧑‍💻 | [**samu0x.dev**](https://github.com/ssamucr/samu0xdev-portfolio) | Mi portafolio, hecho con Astro. |
+| 💎 | [**alas-catalog**](https://github.com/ssamucr/alas-catalog) | Catálogo web para un emprendimiento de joyería. |
+| 🦠 | [**covid-data-analysis**](https://github.com/ssamucr/covid_data_analysis_visualization) | Análisis y visualización de datos de COVID, de mis tiempos de universidad. |
+
+<br>
+
+## 💬 Pregúntame sobre
+
+`SQL` · `Microsoft Fabric` · `Power BI` · `modelo estrella` · `migrar de QlikView a Fabric` · `MCP con Claude` · `cómo aprender datos con IA`
+
+<br>
+
+## 🌄 Fuera del teclado
+
+🏃 Running, atletismo y gym &nbsp;·&nbsp; ☕ Café de Boquete &nbsp;·&nbsp; 🏞️ Ríos, cascadas y playa &nbsp;·&nbsp; 🎮 Videojuegos
+&nbsp;·&nbsp; 🧊 Modelado 3D &nbsp;·&nbsp; 🎬 Series y películas &nbsp;·&nbsp; ✍️ Crear contenido
+
+<br>
+
+<div align="center">
+
+**¿Tienes un proyecto de datos, ML o IA, o quieres conversar de tecnología? Escríbeme, con gusto.**
+
+[![LinkedIn](https://img.shields.io/badge/Hablemos_por_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ssamucr/)
+
+</div>
