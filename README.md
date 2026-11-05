@@ -8,7 +8,7 @@
 
 <br>
 
-[![Portafolio](https://img.shields.io/badge/samu0x.dev-0F172A?style=for-the-badge&logo=astro&logoColor=white)](https://samu0x.dev)
+[![Portafolio](https://img.shields.io/badge/portfolio.samu0x.dev-0F172A?style=for-the-badge&logo=astro&logoColor=white)](https://portfolio.samu0x.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ssamucr/)
 [![Correo](https://img.shields.io/badge/ssamucr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssamucr@gmail.com)
 
@@ -90,7 +90,7 @@ samuel = {
 | :-: | --- | --- |
 | 💸 | **Eco** · [backend](https://github.com/ssamucr/eco-app-backend) · [frontend](https://github.com/ssamucr/eco-app-frontend) | Finanzas personales sencillas, con login, API en Python y base en Postgres. Incluye un **MCP remoto** para consultarla y registrar movimientos desde Claude. |
 | 🌋 | [**sismos-panama**](https://github.com/ssamucr/sismos-panama) | Resumen analítico de los sismos en Panamá, a raíz del temblor del 9 de octubre. |
-| 🧑‍💻 | [**samu0x.dev**](https://github.com/ssamucr/samu0xdev-portfolio) | Mi portafolio, hecho con Astro. |
+| 🧑‍💻 | [**portfolio.samu0x.dev**](https://portfolio.samu0x.dev/) · [código](https://github.com/ssamucr/samu0xdev-portfolio) | Mi portafolio, hecho con Astro. |
 | 💎 | [**alas-catalog**](https://github.com/ssamucr/alas-catalog) | Catálogo web para un emprendimiento de joyería. |
 | 🦠 | [**covid-data-analysis**](https://github.com/ssamucr/covid_data_analysis_visualization) | Análisis y visualización de datos de COVID, de mis tiempos de universidad. |
 
